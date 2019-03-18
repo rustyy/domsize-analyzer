@@ -1,0 +1,22 @@
+{
+  "name": "domsize-analyzer",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Hofmann <felix.hofmann@rustyy.de",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "puppeteer": "^1.13.0",
+    "sitemap-stream-parser": "^1.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^11.11.2",
+    "@types/puppeteer": "^1.12.2",
+    "depcheck": "^0.7.2",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.3333"
+  }
+}
